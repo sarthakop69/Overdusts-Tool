@@ -1,6 +1,7 @@
 # Overdusts-Tool
 
-spirit Gen - Discord Promo Code Generator
+spirit Gen - Discord Promo Code Generator![image22](https://github.com/sarthakop69/Overdusts-Tool/assets/118273651/ce2031bb-5a83-4494-8ba6-16176f85a81a)
+
 spirit Gen :
 
  ▒█████   ██▒   █▓▓█████  ██▀███  ▓█████▄  █    ██   ██████ ▄▄▄█████▓  ██████    ▄▄▄█████▓ ▒█████   ▒█████   ██▓    
@@ -53,7 +54,7 @@ Exit:
 Choose option 6 to exit Spirit Gen.
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/Spirit-Gen.git
+Clone the repository: git clone https://github.com/sarthakop69/Overdusts-Tool.git
 Install dependencies: pip install -r requirements.txt
 Run the script: python gen.py
 Note: Ensure you have Python installed on your system.
